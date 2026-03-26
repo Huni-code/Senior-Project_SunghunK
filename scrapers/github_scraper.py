@@ -6,11 +6,15 @@ Output: data/github_raw.csv
 """
 
 import csv
+import os
 import time
 import requests
 from pathlib import Path
+from dotenv import load_dotenv
 
-GITHUB_TOKEN   = "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"
+load_dotenv(Path(__file__).parent.parent / ".env")
+
+GITHUB_TOKEN   = os.getenv("GITHUB_TOKEN")
 COMPANIES_FILE = Path(__file__).parent.parent / "data" / "companies_filtered.csv"
 OUTPUT_FILE    = Path(__file__).parent.parent / "data" / "github_raw.csv"
 
