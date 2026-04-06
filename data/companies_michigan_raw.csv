@@ -1,0 +1,135 @@
+name,city,description,sectors
+Rocket Companies,Detroit,America's largest mortgage lender powering digital home buying through Rocket Mortgage platform,Fintech • Mortgage • Real Estate
+Stryker,Kalamazoo,Global medical technology company developing surgical robots and implants,Healthtech • Medical Devices • Robotics
+Duo Security (Cisco),Ann Arbor,Zero-trust security platform for multi-factor authentication and endpoint verification,Cybersecurity • Cloud • SaaS
+StockX,Detroit,"Live marketplace for buying and selling sneakers, streetwear, electronics and collectibles",eCommerce • Marketplace • Fintech
+May Mobility,Ann Arbor,Autonomous vehicle technology for shared transport and mobility-as-a-service,Autonomous Vehicles • Mobility • AI
+TechSmith,East Lansing,Screen recording and video editing software including Snagit and Camtasia,Software • Video • Productivity
+Altair Engineering,Troy,Design and simulation tools for engineering and AI-driven product development,Engineering Software • AI • Simulation
+Plex Systems,Troy,Cloud-based manufacturing ERP and MES platform for industrial companies,Manufacturing • ERP • Cloud
+Censys,Ann Arbor,Internet scanning infrastructure and threat detection platform for attack surface management,Cybersecurity • Data • SaaS
+Benzinga,Detroit,Financial news media and data platform serving traders and investors,Fintech • Media • Data
+Detroit Labs,Detroit,Custom software development and digital product studio,Software • Consulting • Mobile
+Atomic Object,Grand Rapids,Custom software development and product design consultancy,Software • Consulting • UX
+Gentherm,Northville,Thermal management technologies for automotive and medical applications,Automotive Tech • Hardware • Medical
+OneMagnify,Detroit,Data-driven marketing technology and analytics platform,Marketing Tech • Data • Analytics
+Domino's Pizza,Ann Arbor,Global pizza delivery chain with significant technology and digital ordering platform,eCommerce • Logistics • Consumer Tech
+OneStream Software,Rochester,Corporate performance management and financial consolidation software,Finance Software • ERP • SaaS
+Rivian,Plymouth,Electric vehicle manufacturer with focus on trucks and SUVs,EV • Hardware • Manufacturing
+Llamasoft,Ann Arbor,Supply chain design and optimization software (acquired by JDA Software),Supply Chain • AI • Analytics
+Compuware,Detroit,IT performance management and mainframe solutions software,Enterprise Software • IT Management
+Stardock,Plymouth,PC software and games developer including desktop customization tools,Gaming • Software • Consumer
+Hilgraeve,Monroe,Communications and data transfer software developer,Software • Communications
+New World Systems,Germantown,Government ERP software for public sector organizations,GovTech • ERP • Software
+Red Cedar Technology,Ann Arbor,Engineering simulation and design optimization software,Engineering Software • Simulation
+CatalogIt,Michigan,Collections management software for museums and archives,Software • Cultural Tech
+BlueWare,Michigan,Government technology solutions and public safety software,GovTech • Public Safety • Software
+Syntel,Troy,IT services and application development outsourcing company,IT Services • Cloud • Outsourcing
+Voxel51,Ann Arbor,Computer vision and machine learning data platform,AI/ML • Computer Vision • Data
+A2 Hosting,Ann Arbor,Web hosting provider with developer-focused infrastructure services,Cloud • Hosting • Infrastructure
+Merative,Ann Arbor,Healthcare data and AI platform for clinical and research insights,Healthtech • Data • AI
+New Eagle,Ann Arbor,Embedded control systems and vehicle electrification engineering,Automotive Tech • Embedded Systems • Hardware
+AccumTech,Ann Arbor,Healthcare data exchange and interoperability solutions,Healthtech • Data • Interoperability
+Nutshell,Ann Arbor,CRM and email marketing platform for small and mid-size businesses,CRM • SaaS • Marketing Tech
+Workit Health,Ann Arbor,Telemedicine platform for substance use disorder treatment,Healthtech • Telemedicine • SaaS
+Plinqit,Ann Arbor,Fintech SaaS platform for banks to acquire deposits through high-yield savings,Fintech • SaaS • Banking
+InfoReady,Ann Arbor,Higher education selection and program management software platform,Edtech • SaaS • Higher Ed
+Blackwell Security,Ann Arbor,Managed security operations center for healthcare organizations,Cybersecurity • Healthcare • Managed Services
+Optilogic,Ann Arbor,Cloud-native supply chain design and optimization platform,Supply Chain • AI • SaaS
+Tandem,Ann Arbor,Fintech app for couples financial planning and expense management,Fintech • Consumer • Mobile
+Evenergi,Ann Arbor,Fleet electrification consulting and BetterFleet software platform,CleanTech • EV • SaaS
+Deepgram,Ann Arbor,Voice AI platform for real-time speech-to-text and audio intelligence,AI/ML • Voice • SaaS
+SkySpecs,Ann Arbor,Autonomous drone inspection platform for wind turbines,Drones • CleanTech • AI
+BlueConduit,Ann Arbor,Predictive analytics for water infrastructure and lead pipe identification,Analytics • GovTech • CleanTech
+Genomenon,Ann Arbor,AI-powered genetic variant interpretation for clinical genomics,Healthtech • AI/ML • Genomics
+ArborMetrix,Ann Arbor,Healthcare analytics and outcomes measurement platform,Healthtech • Analytics • SaaS
+Sequestro,Ann Arbor,Carbon capture technology and environmental solutions,CleanTech • Hardware • Environmental
+RF Connect,Ann Arbor,Systems integrator for 4G 5G and WiFi enterprise solutions,Telecom • Infrastructure • Hardware
+Panoptyc,Detroit,AI-powered retail loss prevention and store analytics platform,AI/ML • Retail • Computer Vision
+Cavnue,Detroit,Digital infrastructure for connected and autonomous vehicle corridors,Autonomous Vehicles • Infrastructure • Smart City
+Signal Advisors,Detroit,Financial advising platform and technology for insurance professionals,Fintech • Insurance • SaaS
+GreenLancer,Detroit,Online marketplace connecting solar and EV charging contractors with engineering,CleanTech • Marketplace • Solar
+Atomic Industries,Detroit,AI-powered tool and die manufacturing automation platform,Manufacturing • AI/ML • Robotics
+Metadome.ai,Detroit,Extended reality XR and AI platform for product visualization,AI/ML • AR/VR • Automotive
+CoverTree,Detroit,Manufactured home insurance platform for underserved communities,Insurtech • SaaS • Consumer
+Zeck,Detroit,Board meeting software for effective governance and shareholder communication,SaaS • Enterprise • Productivity
+Vehya,Detroit,Home and business service automation and scheduling app,Consumer Tech • Marketplace • SaaS
+Autobooks,Detroit,Banking solutions and invoicing platform for small business owners,Fintech • Banking • SaaS
+RIVET Work,Detroit,Construction crew scheduling and workforce management platform,HR Tech • Construction • SaaS
+Petram Analytics,Detroit,Customer data analytics and intelligence platform,Data • Analytics • SaaS
+Airspace Link,Detroit,FAA-approved drone operations infrastructure and airspace management,Drones • Infrastructure • GovTech
+KODE Labs,Detroit,Smart building management and IoT platform for commercial real estate,IoT • Smart Building • SaaS
+Pocketnest,Detroit,Financial wellness platform helping banks engage customers,Fintech • SaaS • Banking
+TiiCKER,Detroit,Shareholder engagement and perks platform for publicly traded companies,Fintech • SaaS • Investor Relations
+InvestNext,Detroit,Software platform for managing real estate investment funds,Fintech • Real Estate • SaaS
+Judy Security,Detroit,Cybersecurity platform for small and mid-size businesses,Cybersecurity • SaaS • SMB
+Hello Innovation,Detroit,Digital product studio and venture builder for tech startups,Software • Venture Studio • Consulting
+Shibumi,Detroit,Work management and strategic execution platform for enterprises,Enterprise Software • SaaS • Productivity
+Lineage Logistics,Detroit,Technology-driven temperature-controlled warehousing and logistics network,Logistics • Supply Chain • IoT
+Acrisure,Grand Rapids,Insurance and financial technology conglomerate with AI capabilities,Insurtech • Fintech • AI
+CertifID,Grand Rapids,Identity verification and wire fraud prevention platform for real estate,Cybersecurity • Fintech • Real Estate
+BAMF Health,Grand Rapids,Precision medicine and theranostics for cancer treatment,Healthtech • Medical • Biotech
+HealthBridge,Grand Rapids,Healthcare payment platform enabling zero interest financing for patients,Healthtech • Fintech • SaaS
+Metropolis,Grand Rapids,AI-powered parking and mobility infrastructure platform,AI/ML • Smart City • Mobility
+CQL,Grand Rapids,Composable commerce and digital platform development agency,eCommerce • Software • Consulting
+webAI,Grand Rapids,Decentralized AI platform for on-device machine learning,AI/ML • Privacy Tech • Infrastructure
+ArcSite,Grand Rapids,Field drawing and estimating software for contractors and trades,SaaS • Construction • Productivity
+PhotoUp,Grand Rapids,AI-powered real estate photo editing and virtual staging platform,AI/ML • Real Estate • SaaS
+VNN Sports,Grand Rapids,Athletic communications and management platform for high schools,SaaS • Edtech • Sports
+Payload CMS,Grand Rapids,Open-source headless CMS and application framework,Developer Tools • Open Source • SaaS
+Savant Automation,Grand Rapids,Automated guided vehicle and robotic material handling systems,Robotics • Manufacturing • Hardware
+Michigan Software Labs,Kalamazoo,Custom mobile and software development studio,Software • Mobile • Consulting
+SpinDance,Kalamazoo,Embedded systems and IoT product development consultancy,IoT • Embedded Systems • Consulting
+Enspired Solutions,Lansing,PFAS water treatment technology using UV-catalyzed systems,CleanTech • Environmental • Hardware
+FirstIgnite,Traverse City,AI software helping universities identify corporate research partnerships,AI/ML • Edtech • SaaS
+Kode Health,Holland,On-demand medical coding gig platform connecting hospitals with coders,Healthtech • Marketplace • SaaS
+BlueFlite,Brighton,Cargo drone manufacturer with tiltrotor design for urban logistics,Drones • Hardware • Logistics
+Orbion Space Technology,Houghton,Electric Hall-effect propulsion systems for satellites,Space Tech • Hardware • Defense
+Kall Morris Inc,Marquette,Orbital debris removal and in-space servicing technology,Space Tech • Defense • Robotics
+Steelhead Technologies,Calumet,All-in-one ERP software for manufacturing job shops,Manufacturing • ERP • SaaS
+Altimetrik,Detroit,Digital business solutions and technology transformation services,IT Services • Digital Transformation • Consulting
+Humanetics,Farmington Hills,Crash test simulation and digital human modeling technology,Automotive Tech • Simulation • Safety
+Quantum Signal AI,Saline,AI and autonomy research for defense and commercial applications,AI/ML • Defense • Autonomous Systems
+Dataspeed,Rochester Hills,Drive-by-wire and autonomous vehicle development systems,Autonomous Vehicles • Hardware • Engineering
+Traxen,Plymouth,AI-powered cruise control and energy optimization for trucks,AI/ML • Automotive Tech • CleanTech
+ADASTEC,East Lansing,SAE Level-4 autonomous driving software platform,Autonomous Vehicles • AI/ML • Software
+Acclarity,Detroit,Revenue cycle management and healthcare analytics platform,Healthtech • Analytics • SaaS
+Envorso,Detroit,Digital transformation and software engineering for automotive,Automotive Tech • Software • Consulting
+Bankjoy,Michigan,Digital banking platform and API solutions for credit unions,Fintech • Banking • SaaS
+Cimulus,Ann Arbor,Custom software development and design services studio,Software • Consulting • UX
+ProQuest,Ann Arbor,Academic research databases and library technology platform,Edtech • Data • SaaS
+Hush,Michigan,Cyberprivacy service protecting personal data online,Cybersecurity • Privacy Tech • Consumer
+Sage Solutions Group,Livonia,HR compliance and human resources consulting technology,HR Tech • Compliance • SaaS
+Coinshift,Grand Rapids,Crypto treasury management platform for DAOs and Web3 companies,Fintech • Web3 • SaaS
+Wedge,Grand Rapids,Fintech platform for home equity and real estate financing,Fintech • Real Estate • SaaS
+Ankored,Michigan,Compliance automation platform for regulated industries,Compliance Tech • SaaS • Fintech
+SGRX Health,Detroit,Pharmacy benefit management and specialty pharmacy solutions,Healthtech • Pharmacy • SaaS
+Lilypad Labs,Holland,Solar-powered autonomous boat rental technology,CleanTech • Hardware • Mobility
+Dorleco,Farmington Hills,Electric vehicle powertrain control systems and software,Automotive Tech • EV • Embedded Systems
+Dynamic Map Platform,Livonia,HD mapping and autonomous driving map data platform,Autonomous Vehicles • Data • Mapping
+Prefix Corporation,Rochester Hills,Prototype and design validation services for automotive and mobility,Automotive Tech • Hardware • Engineering
+Optimal Engineering,Plymouth,Advanced engineering and simulation services for automotive,Automotive Tech • Engineering • Simulation
+SeaLandAire Technologies,Jackson,Unmanned systems and robotics for defense and commercial use,Drones • Defense • Robotics
+Akadeum Life Sciences,Ann Arbor,Buoyancy-activated cell separation technology for life sciences,Biotech • Hardware • Life Sciences
+Ultium Cells,Lansing,Battery cell manufacturing joint venture for electric vehicles,EV • Manufacturing • CleanTech
+Birch Communications,Michigan,Cloud communications and unified communications platform,Cloud • Telecom • SaaS
+Swiftype,Ann Arbor,Enterprise search and site search platform,SaaS • Search • Developer Tools
+ePrize,Michigan,Digital promotions and loyalty program technology platform,Marketing Tech • SaaS • Consumer
+Perceptive Automata,Michigan,Human behavior prediction AI for autonomous vehicles,AI/ML • Autonomous Vehicles • Safety
+Tangent Works,Michigan,Automated machine learning and time series forecasting platform,AI/ML • Data • SaaS
+Duo (before Cisco),Ann Arbor,Two-factor authentication and zero-trust security platform,Cybersecurity • SaaS • Cloud
+Vizit,Michigan,Visual AI platform measuring content effectiveness and brand impact,AI/ML • Marketing Tech • Analytics
+Spatial Studios,Michigan,3D visualization and spatial computing platform for design,AR/VR • Design • Software
+Lereta,Michigan,Property tax and flood determination services technology,Fintech • Real Estate • Data
+Opaque Systems,Michigan,Confidential computing platform for secure AI and data collaboration,AI/ML • Cybersecurity • Cloud
+GreenPath Financial Wellness,Michigan,Nonprofit financial counseling and debt management technology platform,Fintech • Consumer • Nonprofit
+Domo,Michigan,Business intelligence and data visualization cloud platform,Data • Analytics • SaaS
+Boomerang Commerce,Michigan,AI-powered retail pricing and assortment optimization,AI/ML • eCommerce • Retail
+Truveris,Michigan,Pharmacy benefit analytics and drug pricing transparency platform,Healthtech • Analytics • Fintech
+ePlus,Michigan,Technology solutions and managed IT services provider,IT Services • Cloud • Managed Services
+iStreamPlanet,Michigan,Cloud video production and live streaming technology platform,Media • Cloud • Video
+Danlaw,Farmington Hills,Automotive electronics embedded software and telematics solutions,Automotive Tech • Embedded Systems • IoT
+Perion Network,Michigan,Digital advertising technology and connected TV solutions,AdTech • Media • SaaS
+Altaeros,Michigan,Autonomous aerial systems and tethered drone technology,Drones • CleanTech • Hardware
+Bodman PLC,Michigan,Legal technology and IP management solutions,LegalTech • SaaS • Enterprise
+Lear Corporation,Southfield,Automotive seating and electrical systems with software capabilities,Automotive Tech • Hardware • IoT
