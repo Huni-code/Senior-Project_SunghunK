@@ -8,3 +8,4 @@ data/debug_*
 data/*.db-journal
 SO survey/
 conversation_summary.txt
+.aider*
