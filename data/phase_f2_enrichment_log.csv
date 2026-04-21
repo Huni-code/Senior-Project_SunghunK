@@ -480,13 +480,47 @@ company_id,name,cik,rev_updated,rd_updated,rows_inserted,status
 3937,Eversource Energy,72741,0,0,0,ok
 3940,Inari Medical,1531048,0,0,0,ok
 3981,Disruptive Technologies,1498380,0,0,0,ok
-4002,Palantir Technologies,0001321655,6,6,0,ok
-4003,C3.ai,0001577526,5,5,0,ok
-4004,AppLovin,0001751008,5,5,0,ok
-4005,BigBear.ai,0001836981,5,4,0,ok
-4006,Veritone,0001615165,8,8,1,ok
-4007,Pegasystems,0001013857,3,11,4,ok
-4008,UiPath,0001734722,5,5,0,ok
-4009,Cerence,0001768267,6,6,0,ok
-4010,SoundHound AI,0001840856,0,4,0,ok
-4011,Recursion Pharmaceuticals,0001601830,5,5,0,ok
+4002,Palantir Technologies,0001321655,0,0,0,ok
+4003,C3.ai,0001577526,0,0,0,ok
+4004,AppLovin,0001751008,0,0,0,ok
+4005,BigBear.ai,0001836981,0,0,0,ok
+4006,Veritone,0001615165,0,0,0,ok
+4007,Pegasystems,0001013857,0,0,0,ok
+4008,UiPath,0001734722,0,0,0,ok
+4009,Cerence,0001768267,0,0,0,ok
+4010,SoundHound AI,0001840856,0,0,0,ok
+4011,Recursion Pharmaceuticals,0001601830,0,0,0,ok
+4012,Intel,0000050863,0,0,0,ok
+4013,AMD,0000002488,0,0,0,ok
+4014,Broadcom,0001730168,0,0,0,ok
+4015,Qualcomm,0000804328,0,0,0,ok
+4016,Texas Instruments,0000097476,0,0,0,ok
+4017,Applied Materials,0000006951,0,0,0,ok
+4018,Lam Research,0000707549,0,0,0,ok
+4019,KLA,0000319201,0,0,0,ok
+4020,Marvell Technology,0001835632,0,0,0,ok
+4021,Analog Devices,0000006281,0,0,0,ok
+4022,Cisco,0000858877,0,0,0,ok
+4023,HP Inc,0000047217,0,0,0,ok
+4024,Hewlett Packard Enterprise,0001645590,0,0,0,ok
+4025,Juniper Networks,0001043604,0,0,0,ok
+4026,NetApp,0001002047,0,0,0,ok
+4027,Arista Networks,0001596532,0,0,0,ok
+4028,Oracle,0001341439,0,0,0,ok
+4029,SAP,0001000184,0,0,0,no_tags
+4030,IBM,0000051143,0,0,0,ok
+4031,Electronic Arts,0000712515,0,0,0,ok
+4032,Roblox,0001315098,0,0,0,ok
+4033,Autodesk,0000769397,0,0,0,ok
+4034,Ansys,0001013462,0,0,0,ok
+4035,PTC,0000857005,0,0,0,ok
+4036,Spotify,0001639920,0,0,0,no_tags
+4037,Warner Bros Discovery,0001437107,0,0,0,ok
+4038,Coursera,0001651562,0,0,0,ok
+4039,Chegg,0001364954,0,0,0,ok
+4040,Zoom Video Communications,0001585521,0,0,0,ok
+4041,Asana,0001477720,0,0,0,ok
+4042,Unity Software,0001810806,6,6,0,ok
+4043,Wix,0001576789,0,0,0,no_tags
+4044,Walt Disney,0001744489,1,0,6,ok
+4045,Paramount Global,0000813828,9,0,0,ok
