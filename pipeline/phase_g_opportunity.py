@@ -72,7 +72,8 @@ def main():
             JOIN sec_cik_map scm ON scm.company_id = sf.company_id
             JOIN companies_deduped cd ON cd.id = sf.company_id
             JOIN company_classifications cc ON cc.company_id = sf.company_id
-            WHERE sf.year BETWEEN {WINDOW_START} AND {WINDOW_END}""",
+            WHERE sf.year BETWEEN {WINDOW_START} AND {WINDOW_END}
+              AND COALESCE(scm.excluded, 0) = 0""",
         conn,
     )
 

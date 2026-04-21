@@ -1,0 +1,58 @@
+severity,company_id,company_name,matched_name,extra_tokens,cik,sic,sic_description,current_sector
+STRONG,3570,Array,ARRAY BIOPHARMA INC,biopharma,1100412,2834,Pharmaceutical Preparations,Fintech & payments
+STRONG,3865,Cognition,COGNITION THERAPEUTICS INC,therapeutics,1455365,2836,"Biological Products, (No Diagnostic Substances)",AI assistants & copilots
+STRONG,494,EDGE,"Edge Therapeutics, Inc.",therapeutics,1472091,2834,Pharmaceutical Preparations,Fintech & payments
+STRONG,1500,Quince,"Quince Therapeutics, Inc.",therapeutics,1662774,2836,"Biological Products, (No Diagnostic Substances)",E-commerce platforms
+REVIEW,913,AXS,AXS ONE INC,one,947427,7372,Services-Prepackaged Software,Marketplaces & gig platforms
+REVIEW,1619,BlackSky,BlackSky Technology Inc.,technology,1753539,3663,Radio & Tv Broadcasting & Communications Equipment,Hardware & Networking
+REVIEW,86,CAIS,CAIS INTERNET INC,internet,1078404,7374,Services-Computer Processing & Data Preparation,Enterprise / ERP / HRM
+REVIEW,3875,CIMA+,CIMA LABS INC,labs,833298,2834,Pharmaceutical Preparations,Enterprise / ERP / HRM
+REVIEW,1906,Capital Group,INTERNET CAPITAL GROUP INC,internet,1085621,7371,Services-Computer Programming Services,Fintech & payments
+REVIEW,96,Capital One,CAPITAL ONE FINANCIAL CORP,financial,927628,6021,National Commercial Banks,Fintech & payments
+REVIEW,3585,Catapult,Catapult Group International Ltd,"group,international",2074220,,,Enterprise / ERP / HRM
+REVIEW,47,Chime,"Chime Financial, Inc.",financial,1795586,6199,Finance Services,Fintech & payments
+REVIEW,62,Coinbase,"Coinbase Global, Inc.",global,1679788,6199,Finance Services,Fintech & payments
+REVIEW,663,Compass,COMPASS BANCSHARES INC,bancshares,18568,6021,National Commercial Banks,Marketplaces & gig platforms
+REVIEW,2588,Core Scientific,"Core Scientific, Inc./tx",tx,1839341,6199,Finance Services,Fintech & payments
+REVIEW,411,Coupa,Coupa Software Inc,software,1385867,7372,Services-Prepackaged Software,Enterprise / ERP / HRM
+REVIEW,2482,DISCO,"CS Disco, Inc.",cs,1625641,7372,Services-Prepackaged Software,Enterprise / ERP / HRM
+REVIEW,1947,DNA,DNA BRANDS INC,brands,1419995,7311,Services-Advertising Agencies,Creative & design tools
+REVIEW,3981,Disruptive Technologies,"ONLINE DISRUPTIVE TECHNOLOGIES, INC.",online,1498380,2835,In Vitro & In Vivo Diagnostic Substances,Developer tooling
+REVIEW,551,E2open,"E2open Parent Holdings, Inc.",parent,1800347,7374,Services-Computer Processing & Data Preparation,Enterprise / ERP / HRM
+REVIEW,658,Elastic,Elastic N.V.,"n,v",1707753,7372,Services-Prepackaged Software,Search engines
+REVIEW,2617,Embark,"Embark Technology, Inc.",technology,1827980,7373,Services-Computer Integrated Systems Design,Enterprise / ERP / HRM
+REVIEW,152,Enova,"Enova International, Inc.",international,1529864,6141,Personal Credit Institutions,Fintech & payments
+REVIEW,2499,Ethos,Ethos Technologies Inc.,technologies,1788451,6411,"Insurance Agents, Brokers & Service",Fintech & payments
+REVIEW,1929,F5,F5 NETWORKS INC,networks,1048695,3576,Computer Communications Equipment,Hardware & Networking
+REVIEW,1382,Figure,"Figure Technology Solutions, Inc.","solutions,technology",2064124,6163,Loan Brokers,Fintech & payments
+REVIEW,3680,Firefly,"FIREFLY NEUROSCIENCE, INC.",neuroscience,803578,7372,Services-Prepackaged Software,Advertising & attention
+REVIEW,20,Forge,"Forge Global Holdings, Inc.",global,1827821,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Fintech & payments
+REVIEW,29,Hinge,"Hinge Health, Inc.",health,1673743,7374,Services-Computer Processing & Data Preparation,Marketplaces & gig platforms
+REVIEW,640,"Hologram, Inc.",MicroCloud Hologram Inc.,microcloud,1841209,7370,"Services-Computer Programming, Data Processing, Etc.",Developer tooling
+REVIEW,1075,Home Alliance,AMERICAN HOME ALLIANCE CORP,american,813389,2834,Pharmaceutical Preparations,Marketplaces & gig platforms
+REVIEW,762,Interactive Brokers,"Interactive Brokers Group, Inc.",group,1381197,6211,"Security Brokers, Dealers & Flotation Companies",Fintech & payments
+REVIEW,43,Kepler,Kepler Group Ltd,group,2000208,6411,"Insurance Agents, Brokers & Service",AI assistants & copilots
+REVIEW,635,MERGE,MERGE HEALTHCARE INC,healthcare,944765,7373,Services-Computer Integrated Systems Design,Advertising & attention
+REVIEW,293,Marsh McLennan,"MARSH & MCLENNAN COMPANIES, INC.",companies,62709,6411,"Insurance Agents, Brokers & Service",Enterprise / ERP / HRM
+REVIEW,1984,Meta,"Meta Platforms, Inc.",platforms,1326801,7370,"Services-Computer Programming, Data Processing, Etc.",Advertising & attention
+REVIEW,3139,Mobile Solutions,Xstream Mobile Solutions Corp,xstream,842919,1700,Construction - Special Trade Contractors,Enterprise / ERP / HRM
+REVIEW,1213,Motive,"Motive Technologies, Inc.",technologies,1646681,7373,Services-Computer Integrated Systems Design,Enterprise / ERP / HRM
+REVIEW,683,NetSmart,NETSMART TECHNOLOGIES INC,technologies,1011028,7374,Services-Computer Processing & Data Preparation,GovTech / RegTech / MedTech
+REVIEW,1834,Nexxen,Nexxen International Ltd.,international,1849396,7370,"Services-Computer Programming, Data Processing, Etc.",Advertising & attention
+REVIEW,891,Octave,OCTAVE SPECIALTY GROUP INC,"group,specialty",874501,6351,Surety Insurance,GovTech / RegTech / MedTech
+REVIEW,1650,Path,PATH 1 NETWORK TECHNOLOGIES INC,"1,network,technologies",1059404,3669,"Communications Equipment, NEC",Hardware & Networking
+REVIEW,128,Qualtrics,Qualtrics International Inc.,international,1747748,7372,Services-Prepackaged Software,Enterprise / ERP / HRM
+REVIEW,3861,Raymond James,RAYMOND JAMES FINANCIAL INC,financial,720005,6211,"Security Brokers, Dealers & Flotation Companies",Fintech & payments
+REVIEW,1602,Remitly,"Remitly Global, Inc.",global,1782170,7389,"Services-Business Services, NEC",Fintech & payments
+REVIEW,1893,Robinhood,"Robinhood Markets, Inc.",markets,1783879,6211,"Security Brokers, Dealers & Flotation Companies",Fintech & payments
+REVIEW,33,SoFi,"SoFi Technologies, Inc.",technologies,1818874,6199,Finance Services,Fintech & payments
+REVIEW,1484,SoundHound,"SOUNDHOUND AI, INC.",ai,1840856,7372,Services-Prepackaged Software,AI assistants & copilots
+REVIEW,150,Taboola,Taboola.com Ltd.,com,1840502,7370,"Services-Computer Programming, Data Processing, Etc.",Advertising & attention
+REVIEW,370,Teads,Teads Holding Co.,holding,1454938,7370,"Services-Computer Programming, Data Processing, Etc.",Advertising & attention
+REVIEW,1814,WatchGuard,WATCHGUARD TECHNOLOGIES INC,technologies,1062019,7372,Services-Prepackaged Software,Cybersecurity & identity
+REVIEW,432,Waystar,Waystar Holding Corp.,holding,1990354,7373,Services-Computer Integrated Systems Design,Fintech & payments
+REVIEW,3609,Winton,WINTON FINANCIAL CORP,financial,857907,6036,"Savings Institutions, Not Federally Chartered",Fintech & payments
+REVIEW,1678,Xplore,XPLORE TECHNOLOGIES CORP,technologies,1177845,3570,Computer & office Equipment,Hardware & Networking
+REVIEW,1914,Zillow,"ZILLOW GROUP, INC.",group,1617640,7389,"Services-Business Services, NEC",E-commerce platforms
+REVIEW,2354,ZoomInfo,ZoomInfo Technologies Inc.,technologies,1794515,7372,Services-Prepackaged Software,Enterprise / ERP / HRM
+REVIEW,1112,a.k.a. Brands,A.K.A. BRANDS HOLDING CORP.,holding,1865107,5961,Retail-Catalog & Mail-Order Houses,E-commerce platforms
