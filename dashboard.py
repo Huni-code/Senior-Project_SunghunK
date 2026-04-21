@@ -181,7 +181,9 @@ def load_data():
         "cc.sector, cc.revenue_model "
         "FROM companies_deduped cd "
         "LEFT JOIN company_classifications cc ON cd.id = cc.company_id "
-        "WHERE cd.hub != 'washington-dc'",
+        "LEFT JOIN sec_cik_map scm ON scm.company_id = cd.id "
+        "WHERE cd.hub != 'washington-dc' "
+        "AND COALESCE(scm.excluded, 0) = 0",
         conn,
     )
 
@@ -190,7 +192,9 @@ def load_data():
                sf.operating_cash_flow, cc.sector
         FROM sec_financials sf
         JOIN company_classifications cc ON sf.company_id = cc.company_id
+        LEFT JOIN sec_cik_map scm ON scm.company_id = sf.company_id
         WHERE sf.year BETWEEN 2015 AND 2024
+          AND COALESCE(scm.excluded, 0) = 0
     """, conn)
 
     bls = pd.read_sql("SELECT * FROM bls_employment", conn)
@@ -212,6 +216,8 @@ def load_data():
             FROM sec_financials WHERE revenue IS NOT NULL
             GROUP BY company_id
         ) latest ON sf.company_id = latest.company_id AND sf.year = latest.max_year
+        LEFT JOIN sec_cik_map scm ON scm.company_id = sf.company_id
+        WHERE COALESCE(scm.excluded, 0) = 0
     """, conn)
 
     # Phase G sector-level Investing metrics (CAGR 40% / SFR 30% / Margin 30%, 2020-2024)
