@@ -851,8 +851,8 @@ with tabs[4]:
     score_df["inventing"] = minmax(
         score_df["inventing_raw"].fillna(score_df["inventing_raw"].median())
     )
-    score_df["investing"] = score_df["sector"].map(investing_score_map)
-    score_df["investing"] = score_df["investing"].fillna(score_df["investing"].median())
+    _inv = score_df["sector"].map(investing_score_map)
+    score_df["investing"] = minmax(_inv.fillna(_inv.median()))
 
     # Final weighted score — 2-axis (Inventing + Investing)
     score_df["opportunity_score"] = (
